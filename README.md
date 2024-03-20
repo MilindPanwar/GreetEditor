@@ -1,4 +1,4 @@
-🌟 Welcome to Greeting Editor Project by Milind! 🎉
+🌟 Welcome to Greetify, Greeting Editor Project by Milind! 🎉
 
 
 Elevate your image editing experience with our dynamic mobile app designed to effortlessly craft personalized greeting images! 📸✨
