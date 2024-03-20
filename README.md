@@ -1,10 +1,14 @@
-🌟 Welcome to Greetify! 🎉
+🌟 Welcome to Greeting Editor Project by Milind! 🎉
+
 
 Elevate your image editing experience with our dynamic mobile app designed to effortlessly craft personalized greeting images! 📸✨
 
+
 With Greetify, users can easily overlay avatars, names, and custom messages on stunning backgrounds, bringing their creativity to life in just a few taps. 🎨💬
 
+
 Key Features:
+
 📱💻 **Cross-Platform Compatibility**: Powered by the Flutter framework, Greetify ensures seamless performance across all devices and platforms.
 
 💼🔧 **Efficient State Management**: Implemented Bloc Cubit pattern for streamlined and responsive state management, guaranteeing a smooth user experience.
